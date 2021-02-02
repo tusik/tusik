@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anime](https://pic.re/image)
+![Anime](https://pic.re/image?nin=male)
 <!--
 **tusik/tusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
