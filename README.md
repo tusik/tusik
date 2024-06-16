@@ -1,5 +1,22 @@
 # Image ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Image.readme)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tusik&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tusik&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tusik&show_icons=true" align=right />
+</picture>
+
 👋 Hello, I am a backend software engineer.
+
+Given that most of my work projects are written in C++ and are highly tailored to specific scenarios, there is a limited amount of open-source content. 
+
+Currently, I am exploring the involvement in open-source projects during my leisure time, and I have a particular fondness for developing with Python and Rust.
 
 ## Technology Stack
 
